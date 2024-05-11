@@ -1,0 +1,22 @@
+Join: @hackers_assemble on telegram
+
+Hi guys I am Kasper From Hackers Assemble
+
+Welcome to shell and cpanel cracking course and this course is free for
+our subscribers.
+
+Now we will brute force the sites we have using a tool and also run this tool in the rdp which is isolated as I dont know thec
+creator of this tool and I also dont know if it has any kind of malware.
+ so lets start with this video follow me
+ 
+ I used a test.txt with some domains to show you an example of how it cracks the username and password and I chose 830 macros 
+ password list because I have had good results with that one and macros means that it will auto try the password related to thec
+ site as well for example: sitename@123 username@123 etc.
+ 
+ dont focus on the progress bar on the tool wait for it to show results because the progress bar goes to 100% very fast
+ 
+ here you see I have one result because I used a test list and it was small so lets check the login
+
+
+our login works the next video will be on how to install shell with this 
+ byee

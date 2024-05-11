@@ -1,0 +1,30 @@
+Join: @hackers_assemble on telegram
+
+Hi guys I am Kasper From Hackers Assemble
+
+Welcome to shell and cpanel cracking course and this course is free for
+our subscribers.
+
+	Grabbing domains#2
+	
+so now we going to use another way to get domains or site lists 
+
+we will use a website called publicwww.com
+
+Open this in your browser and follow me
+
+Now this is a source code search engine means we can have our keywords and target wordpress sites
+
+Think what common words a wordpress website source code would contain
+
+example: wp-content;wp-content/themes;wp-uploads or whatever it is
+
+So lets search for our domains
+
+We have our results and you see those numbers 50000 domains those all are accessible only to premium users of the site
+but free one is also good for us we can get good amount with that as well if you want to purchase premium purchase on your own 
+risk. do lets download the URLs now you can use different keywords and countries to get different results just like dorks.
+
+you can also specify a theme which is commanly used or this method can also be used to grab laravel list
+	so after downloading lets filter the URLS to domains
+	so we got 1k domains from it so for now byee I will see you in the next one

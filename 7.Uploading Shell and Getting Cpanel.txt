@@ -1,0 +1,69 @@
+Join: @hackers_assemble on telegram
+
+Hi guys I am Kasper From Hackers Assemble
+
+Welcome to shell and cpanel cracking course and this course is free for
+our subscribers.
+
+So as you saw in the previous video I had got one login but that was not good so you remember I made a short
+site list of about 3.5k domains so I used it and I got another wordpress login 
+
+I already logged it in so lets proceed with the shell installation part so follow me
+
+First we need to install advanced file manager plugin
+
+after install we need to activate it
+
+Now go to the file manager and then we will upload our shell in there and you can rename it or put in some
+directory so that it remains hidden from the admins
+
+there we go now we have a shell
+
+so Now we can have access to the cpanel of this website and its done by a misconfiguration in the settings
+that the contactemail file is editable in the cpanel so if you have a shell you can browse and edit the
+contactemail to your email or temp mail and then reset the password and you can get the username very easily
+if there is any you would see it after the /home directory so its easy but to make it simple wso shell
+can auto do it for you but your shell should have cpanel in my case I was not lucky enough because I had 
+a short list you need big list and spend time to collect that I got only 1 login within 3.5k its not always
+about the quantity some times if you use good sources and keywords you will get good and hq list and get 
+even 10 or 50 wordpress logins cracked so think of good keywords and never share them unless you dont want
+to use them create private dorks I might discuss about getting much big list with less effort and auto mated
+and thats not a method you need skill for that aswell unless you dont have skills to do your tasks your 
+own way you will be slow.
+
+so yeah lets see how we can get cpanel and webmail smtp as well and rdp only if your website is running on
+windows hosted server in the zone-h you can see the OS of the hosting so you can target and filter windows
+hosted systems in zone-h and grab that sites to hack the rdp or the server for proffessional term rdp is 
+just a protocol
+
+the Cpanel/WHM crack method is not that useful in the shell cpanel pass reset is efficient and crack is hard
+and not always or great success lol you can also get a reverse netcat session with this 
+
+we have more sites on this server so you can also go through that data if you like
+
+So yeah thats it for today Cpanel reset is really simple if you dont want to do it from wso I have a 
+seperate shell for CPanel and I have shared it in the shells folder
+
+I hope you have learned some stuff this is the final video Byee and lets get to 4k subs and then 5k and go on
+I am back now..
+
+Kasper..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
